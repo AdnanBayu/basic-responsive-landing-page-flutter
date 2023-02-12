@@ -1,6 +1,8 @@
 # Basic Responsive Landing Page
 **created using flutter**</br>
-converted into javascript using command flutter build web
+converted into javascript using command flutter build web </br>
+you can run this website on this link:
+https://adnanbayu.github.io/basic-responsive-landing-page-flutter/#/
 
 # Preview
 **desktop view**
