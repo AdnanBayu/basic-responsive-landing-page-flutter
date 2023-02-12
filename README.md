@@ -1,5 +1,6 @@
 # Basic Responsive Landing Page
 **created using flutter**
+converted into javascript using command flutter build web
 
 # Preview
 **desktop view**
